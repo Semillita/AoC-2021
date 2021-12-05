@@ -12,4 +12,4 @@ answer2 = (1...groups.length).to_a
     .length
 
 puts answer1
-puts answer2
+puts answer2 = File.open("Input1.txt").readlines.map{|line| line.to_i}
