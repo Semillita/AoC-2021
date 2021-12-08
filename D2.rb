@@ -22,5 +22,5 @@ for line in lines
     end
 end
 
-puts "Part 1: #{x1*y1}"
-puts "Part 2: #{x2*y2}"
+puts x1*y1
+puts x2*y2
